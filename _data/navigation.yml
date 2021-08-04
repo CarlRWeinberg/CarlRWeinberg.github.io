@@ -1,0 +1,16 @@
+# Site navigation links
+
+- title: Home
+  url: /
+  excerpt:
+  image:
+
+- title: Red Dynamite
+  url: /reddynamite
+  excerpt:
+  image:
+
+- title: Media Coverage
+  url: /mediacoverage
+  excerpt:
+  image:
