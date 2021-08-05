@@ -7,5 +7,6 @@ permalink: /mediacoverage/
 
 <ul>
 {% assign SortedList = site.data.mediacoverage | sort: "date" %}
-{% for item in SortedList %}<li>{{ item.pubdate | date: "%b %d %Y" }}: {% if item.url %}<a href="{{ item.url }}" target="_blank">{% endif %}{{ item.title }}{% if item.url %}</a>{% endif %}{% if item.publication %}<em> ({{item.publication}})</em>{% endif %}{% if item.synopsis %}<ul>{{item.synopsis}}</ul>{% endif %}{% endfor %}
+{% for item in SortedList %}<li>{{ item.pubdate | date: "%b %d %Y" }}: {% if item.url %}<a href="{{ item.url }}" target="_blank">{% endif %}{{ item.title }}{% if item.url %}</a>{% endif %}{% if item.source %}<em> ({{item.source}})</em>{% endif %}{% if item.synopsis %}<ul>{{item.synopsis}}</ul>{% endif %}</li>{% endfor %}
+
 </ul>
