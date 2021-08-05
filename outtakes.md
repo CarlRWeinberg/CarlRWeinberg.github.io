@@ -3,6 +3,8 @@ layout: default
 permalink: /outtakes/
 ---
 
+# Deleted Scenes & Image Outtakes
+
 {% comment %}
 =======================
 The chunk "assign rawtags" sorts through the files in the _posts folder and gets a list of tags that have been used.
@@ -44,19 +46,12 @@ The chunk "for tag in tags" sorts through the list of available tags, assigns po
 
 {% for tag in tags %}
 <h2 id="{{ tag | slugify }}">{{ tag }}</h2>
-<ul>
+<ul class=outtakes>
 {% for post in site.posts %}
 {% if post.tags contains tag %}
 <li>
-<h3>
-<a href="{{ post.url }}">
-{{ post.title }}
-<small>{{ post.date | date_to_string }}</small>
-</a>
-{% for tag in post.tags %}
-<a class="tag" href="/blog/tag/#{{ tag | slugify }}">{{ tag }}</a>
-{% endfor %}
-</h3>
+<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+<ul><small>{{ post.date | date_to_string }}</small><p>{{ post.excerpt }}</p></ul>
 </li>
 {% endif %}
 {% endfor %}
