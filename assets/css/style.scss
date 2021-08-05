@@ -92,6 +92,11 @@ header ul a strong {
 	list-style-type:none
 }
 
+.outtakes ul li img {
+	clear: all;
+	float: right;
+	width: 33%;
+}
 
 @media print, screen and (max-width: 960px) {
     header ul {

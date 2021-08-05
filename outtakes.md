@@ -51,7 +51,7 @@ The chunk "for tag in tags" sorts through the list of available tags, assigns po
 {% if post.tags contains tag %}
 <li>
 <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-<ul><small>{{ post.date | date_to_string }}</small><p>{{ post.excerpt }}</p></ul>
+<ul>{% if post.image %}<img src="{{ site.url }}{{ post.image }}" alt="{{ post.imagedescription }}">{% endif %}<small>{{ post.date | date_to_string }}</small><p>{{ post.excerpt }}</p></ul>
 </li>
 {% endif %}
 {% endfor %}
