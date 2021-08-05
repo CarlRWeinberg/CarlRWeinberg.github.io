@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "In Mexico with Tom Cantor"
+author:  "Carl R. Weinberg"
+tags: ["Deleted Scenes"]
 excerpt: "It is the afternoon of November 16, 2012, and we have just stopped at the Mexican border. We’re in the tiny town of Tecate, California, in the shadows of Tecate peak, which the native peoples of this area called Kuuchamaa. We’re about to cross into Tecate, Baja California, home of the eponymous beer and a slew of foreign-owned factories—maquiladoras—that run on cheap Mexican labor. For the last hour, we have driven through the hilly, scrubland of southeastern California. From the back seat, I have been interviewing Tom Cantor, owner of Scantibodies Laboratories, whose plant in Tecate manufacturers medical testing products. Through his Light and Life Foundation, Cantor is also the owner of the suburban San Diego-based Creation and Earth History Museum, formerly the property of the Institute of Creation Research (ICR). As we get out of the car to walk through the U.S. Customs and Border Protection station, Cantor is telling me how he converted to creationism as an undergraduate biochemistry major in the early 1970s at the University of California/San Diego."
 ---
-
-# Welcome
 
 It is the afternoon of November 16, 2012, and we have just stopped at the Mexican border. We’re in the tiny town of Tecate, California, in the shadows of Tecate peak, which the native peoples of this area called Kuuchamaa. We’re about to cross into Tecate, Baja California, home of the eponymous beer and a slew of foreign-owned factories—maquiladoras—that run on cheap Mexican labor. For the last hour, we have driven through the hilly, scrubland of southeastern California. From the back seat, I have been interviewing Tom Cantor, owner of Scantibodies Laboratories, whose plant in Tecate manufacturers medical testing products. Through his Light and Life Foundation, Cantor is also the owner of the suburban San Diego-based Creation and Earth History Museum, formerly the property of the Institute of Creation Research (ICR). As we get out of the car to walk through the U.S. Customs and Border Protection station, Cantor is telling me how he converted to creationism as an undergraduate biochemistry major in the early 1970s at the University of California/San Diego.
 
