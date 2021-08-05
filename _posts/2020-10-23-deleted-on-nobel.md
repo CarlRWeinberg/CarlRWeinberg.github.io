@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Dynamite and Nobel"
-author:  "Carl R. Weinberg"
 tags: ["Deleted Scenes"]
 excerpt: "In 1883, Swedish playwright and poet August Strindberg (1849–1912) penned an homage to Alfred Nobel (1833–96), the Swedish-born inventor of dynamite. In “Folkupplagan,” or “Popular edition,” Strindberg used a publishing metaphor to favorably compare dynamite, “a huge popular edition, constantly renewed in a hundred thousand copies,” with gunpowder, “a small edition published for the nobles and the princely houses.”1 Nobel, in Strindberg’s estimation, had unwittingly provided ordinary working people with the means— inexpensive, easily available, and safe to handle,—to fight oppression and tyranny. Indeed, only two years earlier, a group of Russian populists organized into the People’s Will had used Nobel’s new invention to assassinate Tsar Alexander II on the streets of St. Petersburg. And in the coming decades, dynamite was the weapon of choice among a wide range of Russian revolutionaries.2 Strindberg himself was no stranger to violent controversy. Declaring himself in 1880 a “socialist, a nihilist, a republican, anything that is opposed to the reactionaries,” he stood trial for blasphemy in 1884 after publishing a collection of short stories on marriage that challenged existing gender and sexual norms and portrayed the Lutheran church as a tool of the rich to fleece the Swedish masses."
 ---

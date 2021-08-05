@@ -3,13 +3,60 @@ layout: default
 permalink: /outtakes/
 ---
 
-## Outtakes from Red Dynamite
+{% comment %}
+=======================
+The chunk "assign rawtags" sorts through the files in the _posts folder and gets a list of tags that have been used.
+=======================
+{% endcomment %}
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
-    </li>
-  {% endfor %}
-</ul>
+{% assign rawtags = "" %}
+{% for post in site.posts %}
+	{% assign ttags = post.tags | join:'|' | append:'|' %}
+	{% assign rawtags = rawtags | append:ttags %}
+{% endfor %}
+{% assign rawtags = rawtags | split:'|' | sort %}
+
+
+{% comment %}
+=======================
+The chunk "assign tags" cleans the tags, makes sure there are no blank tags, and then neatens up the list for use.
+=======================
+{% endcomment %}
+{% assign tags = "" %}
+{% for tag in rawtags %}
+	{% if tag != "" %}
+		{% if tags == "" %}
+			{% assign tags = tag | split:'|' %}
+		{% endif %}
+		{% unless tags contains tag %}
+			{% assign tags = tags | join:'|' | append:'|' | append:tag | split:'|' %}
+		{% endunless %}
+	{% endif %}
+{% endfor %}
+
+
+{% comment %}
+=======================
+The chunk "for tag in tags" sorts through the list of available tags, assigns posts to each appropriate tag, and then prints them all out in sorted order for the web site visitor to see.
+=======================
+{% endcomment %}
+{% for tag in tags %}
+	<h2 id="{{ tag | slugify }}">{{ tag }}</h2>
+	<ul>
+	 {% for post in site.posts %}
+		 {% if post.tags contains tag %}
+		 <li>
+		 <h3>
+		 <a href="{{ post.url }}">
+		 {{ post.title }}
+		 <small>{{ post.date | date_to_string }}</small>
+		 </a>
+		 {% for tag in post.tags %}
+			 <a class="tag" href="/blog/tag/#{{ tag | slugify }}">{{ tag }}</a>
+		 {% endfor %}
+		 </h3>
+		 </li>
+		 {% endif %}
+	 {% endfor %}
+	</ul>
+{% endfor %}
