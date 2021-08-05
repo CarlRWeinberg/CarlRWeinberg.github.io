@@ -92,8 +92,12 @@ header ul a strong {
 	list-style-type:none
 }
 
-.outtakes ul img {
+.outtakes ul li {
 	clear: all;
+	width: 33%;
+}
+
+.outtakes ul li img {
 	float: right;
 	width: 33%;
 }
