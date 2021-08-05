@@ -49,9 +49,9 @@ The chunk "for tag in tags" sorts through the list of available tags, assigns po
 <ul class=outtakes>
 {% for post in site.posts %}
 {% if post.tags contains tag %}
-<li>
+<li>{% if post.image %}<img src="{{ site.url }}{{ post.image }}" alt="{{ post.imagedescription }}">{% endif %}
 <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-<ul>{% if post.image %}<img src="{{ site.url }}{{ post.image }}" alt="{{ post.imagedescription }}">{% endif %}<small>{{ post.date | date_to_string }}</small><p>{{ post.excerpt }}</p></ul>
+<ul><small>{{ post.date | date_to_string }}</small><p>{{ post.excerpt }}</p></ul>
 </li>
 {% endif %}
 {% endfor %}
