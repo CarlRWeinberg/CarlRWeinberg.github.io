@@ -89,17 +89,13 @@ header ul a strong {
 
 
 .outtakes ul {
-	list-style-type:none
-}
-
-.outtakes ul li {
+	list-style-type:none;
 	clear: all;
-	width: 33%;
 }
 
-.outtakes ul li img {
+.outtakes ul img {
 	float: right;
-	width: 33%;
+	width:33%;
 }
 
 @media print, screen and (max-width: 960px) {
