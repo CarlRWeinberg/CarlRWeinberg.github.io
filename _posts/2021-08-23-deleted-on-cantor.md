@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""
+title:  "With Tom Cantor in Mexico"
 tags: ["Deleted Scenes"]
 excerpt: It is the afternoon of November 16, 2012, and we have just stopped at the Mexican border. We’re about to cross into Tecate, Baja California, home of the eponymous beer and a slew of foreign-owned factories—maquiladoras—that run on cheap Mexican labor.  For the last hour, we have driven through the hilly scrubland southeast of San Diego. From the back seat, I have been interviewing Tom Cantor, owner of Scantibodies Laboratory, Inc. whose plant in Tecate manufacturers medical testing products. Through his Light and Life Foundation, Cantor is also the owner of the suburban San Diego-based Creation and Earth History Museum, formerly the property of the Institute of Creation Research (ICR).  As we get out of the car to walk through the U.S. Customs and Border Protection station, Cantor is telling me how he became a creationist. 
 ---
