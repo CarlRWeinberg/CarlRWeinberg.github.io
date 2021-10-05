@@ -58,6 +58,6 @@ But I am sympathetic to Cantor’s skeptical reaction to the claim that evolutio
 
 And thus, they gave me the opportunity to write an entire book about their responses. I hope you enjoy reading it as much as I enjoyed exploring this vast, untapped area of investigation. 
 
-[^1]: Footnote 1   The best-known proponent of this view is Richard Weikart. See [his book on the subject](https://www.csustan.edu/history/darwin-hitler). For a critical review of his claims, see [Sandor Gliboff's review](https://networks.h-net.org/node/35008/reviews/43959/gliboff-weikart-darwin-hitler-evolutionary-ethics-eugenics-and-racism).
+[^1]: The best-known proponent of this view is Richard Weikart. See [his book on the subject](https://www.csustan.edu/history/darwin-hitler). For a critical review of his claims, see [Sander Gliboff's review](https://networks.h-net.org/node/35008/reviews/43959/gliboff-weikart-darwin-hitler-evolutionary-ethics-eugenics-and-racism).
 
 [^3]: Footnote 3 Author, "From a Document" in *A collection* (eds. Some editor), 2012.
