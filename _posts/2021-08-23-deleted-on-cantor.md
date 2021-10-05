@@ -59,4 +59,4 @@ But I am sympathetic to Cantor’s skeptical reaction to the claim that evolutio
 And thus, they gave me the opportunity to write an entire book about their responses. I hope you enjoy reading it as much as I enjoyed exploring this vast, untapped area of investigation. 
 
 
-
+[^3]: Footnote 3 Author, "From a Document" in *A collection* (eds. Some editor), 2012.
