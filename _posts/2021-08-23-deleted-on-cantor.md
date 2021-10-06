@@ -62,6 +62,8 @@ But I am sympathetic to Cantor’s skeptical reaction to the claim that evolutio
 
 And thus, they gave me the opportunity to write an entire book about their responses. I hope you enjoy reading it as much as I enjoyed exploring this vast, untapped area of investigation. 
 
+**Notes**
+
 [^1]: The best-known proponent of this view is Richard Weikart. See [*From Darwin to Hitler: Evolutionary Ethics, Eugenics, and Racism in Germany* (London: Palgrave Macmillan, 2004)](https://www.csustan.edu/history/darwin-hitler). For a critique of his claims, see [Sander Gliboff's review](https://networks.h-net.org/node/35008/reviews/43959/gliboff-weikart-darwin-hitler-evolutionary-ethics-eugenics-and-racism).
 
 [^2]: In 2020, twelve years after I visited Cantor, he published a new version of his autobiography, in which he revealed a secret that had been haunting him for decades. Before he married his wife-to-be Cheryl, she informed him that she had been raped and was pregnant with the rapist’s child. According to Cantor, this meant that Cheryl was no longer “pure, wholesome, and innocent.” She could no longer rescue Cantor from his own “defilement.”  It was this revelation more than anything else, it turned out, that led Cantor to accept Jesus. The Cantors gave up Cheryl’s newborn daughter for adoption. And they kept this secret for nearly fifty years until their son, upon doing a 23andme search, discovered he had a half-sister. See Tom Cantor, [Changed](http://www.tomcantor.com/changed/) (Tom Cantor, 2020), 28–56, 73–75.
