@@ -12,6 +12,6 @@ Using the Scopes "Monkey" Trial as a starting point, Red Dynamite traces the pol
 ### Buy Red Dynamite!
 
 - [Amazon](https://www.amazon.com/Red-Dynamite-Creationism-Anticommunism-America-ebook/dp/B08YP5STF8/ref=sr_1_1?dchild=1&keywords=red+dynamite&qid=1629303176&sr=8-1) (Kindle or paperback)
-- [Cornell University Press](https://www.cornellpress.cornell.edu/book/9781501759291/red-dynamite/#bookTabs=1Thanks)
-- Thanks to generous funding from Indiana University and its participation in TOME (Toward an Open Monograph Ecosystem), the ebook editions of this book are available as Open Access volumes from Cornell Open (cornellopen.org) and other repositories.
+- [Cornell University Press](https://www.cornellpress.cornell.edu/book/9781501759291/red-dynamite/#bookTabs=1Thanks)(free pdf download or paperback)
+- Thanks to generous funding from Indiana University and its participation in TOME (Toward an Open Monograph Ecosystem), the ebook editions of *Red Dynamite* are available as FREE Open Access volumes on the Cornell University Press website (above) and other online repositories.
 
