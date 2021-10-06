@@ -8,7 +8,7 @@ I write and teach at [Indiana University-Bloomington](https://www.indiana.edu/) 
 
 
 - Senior Lecturer, IU [College of Arts and Sciences](https://college.indiana.edu/)
-- [Adjunct Associate Professor, Dept. of History](https://history.indiana.edu/faculty_staff/adjunctfaculty/weinberg_carl.html)
+- Adjunct Associate Professor, [Dept. of History](https://history.indiana.edu/faculty_staff/adjunctfaculty/weinberg_carl.html)
 - Director, PACE Institute for Role-Immersive Teaching and Learning [(PIRTL)](https://pace.indiana.edu/academics/games/index.html)
 
 **How to contact me**
