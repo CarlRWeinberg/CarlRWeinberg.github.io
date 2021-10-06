@@ -11,7 +11,11 @@ I write and teach about the modern United States, with a focus on social movemen
 - [Adjunct Associate Professor, Dept. of History](https://history.indiana.edu/faculty_staff/adjunctfaculty/weinberg_carl.html)
 - Director, PACE Institute for Role-Immersive Teaching and Learning [(PIRTL)](https://pace.indiana.edu/academics/games/index.html)
 
-1100 E. 7th Street
-Bloomington, IN 47405
-812-856-5111
-crweinbe@indiana.edu
+**How to contact me**
+
+- 1100 E. 7th Street
+  Bloomington, IN 47405
+
+- 812-856-5111
+
+- crweinbe@indiana.edu
