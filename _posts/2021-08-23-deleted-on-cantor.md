@@ -13,8 +13,7 @@ It is the afternoon of November 16, 2012, and we have just stopped at the Mexica
 It was 1970, and nineteen-year-old Tom Cantor was taking a class with the famous physical chemistry professor at UC San Diego, the Nobel Prize–nominee Stanley Miller. In 1952, Miller and Harold Urey had conducted a [ground-breaking experiment](https://en.wikipedia.org/wiki/Miller%E2%80%93Urey_experiment) seeking to explain the origin of life on earth. They were testing the hypothesis of [abiogenesis](https://www.britannica.com/science/abiogenesis#ref1118862) put forward by Soviet biochemist A. I. Oparin and British geneticist and Marxist J. B. S. Haldane. Oparin and Haldane began with a key principle of the Marxist philosophy of dialectical materialism: the transformation of quantity into quality. They  hypothesized that the inorganic conditions of early earth gave rise to organic molecules—a qualitative leap to life from non-life. By applying electrodes to a mix of gases in a “sparking chamber,” Miller and Urey succeeded in producing some amino acids, a hint that life could arise without God. 
 
 ![Miller experiment image](/assets/img/Miller experiment.jpg)
-
-**Caption**: Chemist Stanley Miller and the set-up of his famous experiment.
+**Chemist Stanley Miller and the set-up of his famous experiment.**
 
 As a well-read undergraduate student in Miller’s class, Cantor took the opportunity to visit his esteemed professor’s office hours and ask him some tough questions about the limits of his results. To Cantor’s amazement, Miller did not have a convincing answer. He ended the conversation by saying, “I do not know. I am still searching for how life began.” Walking out of Miller’s office, Cantor concluded that if his illustrious professor could not explain the origin of life without God, then God must have been involved.
 
