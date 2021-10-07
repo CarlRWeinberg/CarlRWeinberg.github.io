@@ -9,7 +9,7 @@ In Red Dynamite, Carl R. Weinberg argues that creationism's tenacious hold on Am
   
 Using the Scopes "Monkey" Trial as a starting point, Red Dynamite traces the politically explosive union of Darwinism and communism over the next century. Across those years, social evolution was the primary target of creationists, and their "ideas have consequences" strategy instilled fear that shaped the contours of America's culture wars. By taking the anticommunist arguments of creationists seriously, Weinberg reveals a neglected dimension of antievolutionism and illuminates a source of the creationist movement's continuing strength.
 
-### Buy Red Dynamite!
+### How to get the book
 
 - [Amazon](https://www.amazon.com/Red-Dynamite-Creationism-Anticommunism-America-ebook/dp/B08YP5STF8/ref=sr_1_1?dchild=1&keywords=red+dynamite&qid=1629303176&sr=8-1) (paperback or FREE Kindle edition)
 - [Cornell University Press](https://www.cornellpress.cornell.edu/book/9781501759291/red-dynamite/#bookTabs=1Thanks) (paperback or FREE pdf download)
