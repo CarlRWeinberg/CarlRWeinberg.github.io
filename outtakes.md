@@ -2,7 +2,7 @@
 layout: default
 permalink: /outtakes/
 ---
-# Deleted Scenes, Image Outtakes, and Blog Posts
+# Deleted Scenes, Image Outtakes,         and Blog Posts
 
 {% comment %}
 =======================
