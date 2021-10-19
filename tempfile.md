@@ -29,6 +29,7 @@ permalink: /testfile/
     {{ post.description }}
   </li>
 {% endfor %}
+ </ul>
 
 <h1>Image Outtakes</h1>
 <ul>
@@ -37,3 +38,4 @@ permalink: /testfile/
     {{ post.description }}
   </li>
 {% endfor %}
+</ul>
