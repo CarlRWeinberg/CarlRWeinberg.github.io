@@ -3,7 +3,7 @@ layout: post
 title: "Russian Ravages"
 tags: ["Image Outtakes"]
 image: /assets/img/Russianravages.jpg
-excerpt: "A cartoon from Gerald Winrod's *Defender*"
+excerpt: "A cartoon from Gerald Winrod's Defender"
 ---
 
 ![Russian Ravages](/assets/img/Russianravages.jpg)
