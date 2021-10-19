@@ -26,6 +26,7 @@ The chunk "assign tags" cleans the tags, makes sure there are no blank tags, and
 
 {% assign tags = "" %}
 {% for tag in rawtags %}
+<!-- {{ tag }} -->
 {% if tag != "" %}
 {% if tags == "" %}
 {% assign tags = tag | split:'|' %}
