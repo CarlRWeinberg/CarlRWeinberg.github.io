@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Defuse a Bomb"
-tags: ["Image Outtakes"]
+tags: ["Outtakes"]
 excerpt: A cartoon from Answers in Genesis
 ---
 
