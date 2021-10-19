@@ -3,7 +3,7 @@ layout: post
 title: "Communism in Operation"
 tags: ["Image Outtakes"]
 image: "/assets/img/Communisminoperation.jpg"
-excerpt: "This image of Reds Hammering at Our Gates appeared in the Foursquare Crusader in 1936."
+excerpt: "An anticommunist cartoon from Sister Aimee Semple McPherson's Church of the Foursquare Gospel"
 ---
 
 ![Communism in Operation](/assets/img/Communisminoperation.jpg)
