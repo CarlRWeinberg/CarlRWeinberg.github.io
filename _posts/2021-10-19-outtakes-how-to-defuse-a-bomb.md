@@ -2,6 +2,7 @@
 layout: post
 title: "How to Defuse a Bomb"
 tags: ["Image Outtakes"]
+image: /assets/img/debomb.jpg
 excerpt: A cartoon from Answers in Genesis
 ---
 
