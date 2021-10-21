@@ -3,7 +3,7 @@ layout: default
 permalink: /mediacoverage/
 ---
 
-# Media Coverage of Red Dynamite
+# Media Coverage and Events
 
 <ul>
 {% assign SortedList = site.data.mediacoverage | sort: "date" %}
