@@ -24,4 +24,4 @@ I created this website as a way to share "cutting-room floor" material that I ha
 - crweinbe@indiana.edu
 - @euclid585 on Twitter
 
-Thanks to Professor Kalani Craig, co-director of the IU [Institute for Digital Arts & Humanities](https://idah.indiana.edu/index.html), for her help in getting this website off the ground.
+Thanks to Professor Kalani Craig, co-director of the [IU Institute for Digital Arts & Humanities](https://idah.indiana.edu/index.html), for her valuable help in getting this website off the ground.
