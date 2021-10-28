@@ -11,7 +11,8 @@ Using the Scopes "Monkey" Trial as a starting point, *Red Dynamite* traces the p
 
 ### How to get the book
 
+-[Morgenstern Books]: (https://bookshop.org/books/red-dynamite-creationism-culture-wars-and-anticommunism-in-america/9781501759291) (paperback)
 - [Amazon](https://www.amazon.com/Red-Dynamite-Creationism-Anticommunism-America-ebook/dp/B08YP5STF8/ref=sr_1_1?dchild=1&keywords=red+dynamite&qid=1629303176&sr=8-1) (paperback or FREE Kindle edition)
-- [Cornell University Press](https://www.cornellpress.cornell.edu/book/9781501759291/red-dynamite/#bookTabs=1Thanks) (paperback or FREE pdf download)
+- [Cornell University Press](https://www.cornellpress.cornell.edu/book/9781501759291/red-dynamite/#bookTabs=1Thanks) (paperback or FREE pdf download) Save 30 percent on the paperback by using Code 09FLYER.
 - The free ebook editions of *Red Dynamite* are available thanks to generous funding from Indiana University and its participation in TOME (Toward an Open Monograph Ecosystem).
 
