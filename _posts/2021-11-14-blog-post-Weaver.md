@@ -42,17 +42,17 @@ Though neither Marc Thiessen nor Alan Guelzo is a young-earth creationist, as fa
 
 **Endnotes**
 
-[^1]Frank S. Meyer, “Richard M. Weaver: An Appreciation,” *Modern Age* 14 (Summer 1970): 243.
+[^1]: Frank S. Meyer, “Richard M. Weaver: An Appreciation,” *Modern Age* 14 (Summer 1970): 243.
 	
-[^2]Fred Douglas Young, *Richard M. Weaver, 1910–1963: A Life of the Mind* (Columbia: University of Missouri Press, 1995), 25–35, 61–76. See also Paul V. Murphy, *The Rebuke of History: The Southern Agrarians and American Conservative Thought* (Chapel Hill: University of North Carolina Press, 2001), 151–77.
+[^2]: Fred Douglas Young, *Richard M. Weaver, 1910–1963: A Life of the Mind* (Columbia: University of Missouri Press, 1995), 25–35, 61–76. See also Paul V. Murphy, *The Rebuke of History: The Southern Agrarians and American Conservative Thought* (Chapel Hill: University of North Carolina Press, 2001), 151–77.
 
-[^3]Richard M. Weaver, *Ideas Have Consequences* (Chicago: University of Chicago Press, 1948), 1–6.
+[^3]: Richard M. Weaver, *Ideas Have Consequences* (Chicago: University of Chicago Press, 1948), 1–6.
 
-[^4]Ibid., 9.
+[^4]: Ibid., 9.
 
-[^5]Ibid., 36, 38, 41–43. Richard Weaver, *The Southern Tradition at Bay* (New Rochelle, NY: Arlington House, 1968).
+[^5]: Ibid., 36, 38, 41–43. Richard Weaver, *The Southern Tradition at Bay* (New Rochelle, NY: Arlington House, 1968).
 
-[^6]Corey Robin, *The Reactionary Mind: Conservatism from Edmund Burke to Donald Trump*, 2nd ed. (New York: Oxford University Press, 2018), 4.
+[^6]: Corey Robin, *The Reactionary Mind: Conservatism from Edmund Burke to Donald Trump*, 2nd ed. (New York: Oxford University Press, 2018), 4.
 
-[^7]David Noebel, *The Slaughter of the Innocent* (Manitou Springs, CO: Summit Ministries Publications, 1979), 39. For more on Noebel, see Carl R. Weinberg, *Red Dynamite: Creationism, Culture Wars, and Anticommunism in America (Ithaca, NY: Cornell University Press, 2021), 188–96, 252–56.
+[^7]: David Noebel, *The Slaughter of the Innocent* (Manitou Springs, CO: Summit Ministries Publications, 1979), 39. For more on Noebel, see Carl R. Weinberg, *Red Dynamite: Creationism, Culture Wars, and Anticommunism in America (Ithaca, NY: Cornell University Press, 2021), 188–96, 252–56.
 
