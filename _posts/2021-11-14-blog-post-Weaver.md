@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ideas Have Consequences? Yes and No"
+title: "Do Ideas Have Consequences? Yes and No"
 tags: ["Blog Posts"]
 excerpt: "Of course, ideas *do* have consequences. Otherwise, I would not have bothered to write this piece or to spend ten years working on Red Dynamite. But a brief examination of Richard Weaver’s *Ideas Have Consequences* (1948) demonstrates the wisdom of a materialist twist on Weaver’s title: ideas *are* consequences. In this case, Weaver’s ideas and those who have deployed them are fundamentally a product of conservative movements seeking to uphold the established power relations in society and fight off desperately needed social change. The ultimate meaning of “Ideas have consequences” is sit down and shut up."
 ---
