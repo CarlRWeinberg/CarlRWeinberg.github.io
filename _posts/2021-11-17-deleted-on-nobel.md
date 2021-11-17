@@ -117,7 +117,7 @@ Evolution, communism, power, deception, morality, sex, violence—all of these t
 
 [^9]:  [“Nobel’s raunchy anti-capitalist play gets world premiere]( https://www.theguardian.com/culture/2005/sep/08/theatre.nobelprize2005),” *The Guardian*, September 8, 2005.
 
-[^10]: Alfred Nobel, *Némésis*, trans. Régis Boyer (Paris: Les Belles Lettres, 2008; orig. pub. 1896),152. The text in French is: “Tout de suite, dès que j’aurai compté mon or.” Remarkably, *Nemesis has not been translated into English.
+[^10]: Alfred Nobel, *Némésis*, trans. Régis Boyer (Paris: Les Belles Lettres, 2008; orig. pub. 1896),152. The text in French is: “Tout de suite, dès que j’aurai compté mon or.” Many thanks to Professor Bengt Sandin of Linköping University, Linköping, Sweden, for comparison with the original Swedish text. Remarkably, *Nemesis* has not been translated into English.
 
 [^11]: Alfred Nobel,*Némésis*, 74–75.
 
