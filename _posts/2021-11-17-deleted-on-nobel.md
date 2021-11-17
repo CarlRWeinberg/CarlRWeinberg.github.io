@@ -47,7 +47,7 @@ In Nobel’s hands, Satan offers Beatrice a refreshing contrast to this caricatu
 Nobel purveys his materialistic, evolutionary vision not only through Satan but also through the otherwise detestable Count Cenci. In a soliloquy during Act I, the Count reinforces Satan’s conception of nature as God and mirrors his critique of organized Christianity. To Cenci, the Christian conception of God’s “almighty Justice” is the “silliest of fables.” Hell is an invention that enables the clergy to fleece “all of humanity.” Based on the example of the early modern Catholic Church, morality itself is nothing but a “mask” to “fool the peasants.” Moreover, argues Cenci, nature itself reflects nothing of the alleged Christian virtues: “There is no pity, no reward for virtuous behavior, no punishment for crime. All creatures prey or are preyed upon, all torment or are tormented, and God’s reward, like that of the state, goes to the strongest.”[^13] It was Tennyson’s  “Nature, red in tooth and claw,” with some Hobbes and possibly Nietzsche thrown in for good measure.[^14] Thus, Nobel’s play not only deals with rape, incest, and murder but also conveys the author’s pro-evolutionary and anti-religious views through the work’s most conventionally evil characters.  It is hardly a shock that his family sought to destroy the book.
 
 ![Nobel oil derricks image](/assets/img/Nobel oil derricks Balachany near Baku.png)
-Oil derricks in the Balachany oil field, near Baku, Azerbaijan
+Nobel oil derricks in the Balachany oil field, near Baku, Azerbaijan
 
 **Nobel in Russia**
 
