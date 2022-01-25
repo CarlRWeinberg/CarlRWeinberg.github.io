@@ -26,7 +26,7 @@ As bizarre as such claims sound today, Noebel’s charges harmonized well with t
 Rock music–loving young people ridiculed Noebel’s claims. His critics took heart from a mocking portrait of Noebel’s crusade in Newsweek magazine entitled, “Beware, the Red Beatles.” Still, Noebel did present convincing evidence that the Communist Party and fellow-travelers had consciously exerted significant influence on American folk music, extending to “mainstream” icons such as the *Fireside Book of Folk Songs*.[^2] His claims about rock ‘n’ roll were more indirect.  They focused not on Communist Party cultural workers, but rather on the alleged atheistic and communistic leanings of figures such as Beatles’ John Lennon and of crossover singers like Joan Baez and Bob Dylan.  Regardless of whether or not Noebel convinced his readers, he displayed considerable research skill, drawing upon U.S. government documents, press accounts, scientific journal articles, music history, and Communist literature to support his claims. *Rhythm, Riots and Revolution* contained dozens of footnotes and twenty-six appendices.[^3]
 
 ![Beatles in Newsweek](/assets/img/Noebel Boring from within.jpg)
-*Newsweek* (November 15, 1965) pokes fun at Noebel’s claims about the Beatles.
+*Newsweek* (November 15, 1965) pokes fun at Noebel’s claims about the Beatles and communism.
 
 **The Animal Emotion**
 
