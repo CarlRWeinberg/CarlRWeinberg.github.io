@@ -7,19 +7,19 @@ excerpt: As the reference to the 1965 Watts urban rebellion suggests, Noebel’s
 *Reverend David A. Noebel (1936– ) appears in chapters 6 and 9 of Red Dynamite as a leading anticommunist who spent decades shining a bright light on the connections, both real and imagined, between communism and evolutionary science. Working for Billy James Hargis’s Christian Crusade in the early 1960s, Noebel founded the Anti-Communist Youth University (now Summit Ministries) in Manitou Springs, Colorado, to train a new generation of Red-hunters. 
 Here I write about Noebel’s infamous campaigns against rock ‘n’ roll in the 1960s. Claiming that the music was part of a communist plot to instigate youth rebellion, Noebel employed openly racist arguments about the “savage” roots of rock ‘n’ roll. Even though Noebel did not openly invoke Darwin as the culprit, by linking popular music, animal behavior, sex, race, and immorality, Noebel helped to lay the foundation for subsequent culture wars over the teaching of evolutionary science to the nation’s young people.*
 
-![Summit Ministries](assets/img/Noebel Summit Ministries.jpg=250x]
+![Summit Ministries](assets/img/Noebel Summit Ministries.jpg=250x)
 Housed in an historic hotel with a stunning view of Pikes Peak, David Noebel’s Anti-Communist Youth University in Manitou Springs, Colorado is now known as Summit Ministries. 
 
 **Nerve Jamming American Youth**
 
 In a series of works published by the Christian Crusade—*Communism, Hypnotism and the Beatles* (1965), *Rhythm, Riots and Revolution* (1966), *Suffer Little Children* (1967), and *The Marxist Minstrels* (1974)—Reverend David Noebel advanced a startling thesis:  folk and rock ‘n’ roll music constituted a weapon wielded by the international communist conspiracy to “nerve-jam” American youth and turn them into pliable accomplices of revolt against the American capitalist establishment. 
 
-![Noebel portrait](assets/img/David Noebel portrait.jpg=250x]
+![Noebel portrait](assets/img/David Noebel portrait.jpg=250x)
 Reverend David A. Noebel in the mid-1960s
 
 As bizarre as such claims sound today, Noebel’s charges harmonized well with the widely-publicized work of journalist Edward Hunter who argued that the Soviets and Chinese had perfected [“brainwashing” techniques]( http://www7.bbk.ac.uk/hiddenpersuaders/blog/hunter-origins-of-brainwashing/) building on the early experiments in psychological “conditioning” pioneered by Russian physiologist Ivan Pavlov in his experiments with dogs. Communist agents as well as communist-sympathizing musicians, according to Nobel, were using such techniques—such as writing music that accorded with the human heartbeat—to create a “frenzied, hypnotic state.”  “The frightening —even terrifying—aspect of this mentally conditioned process,” Noebel warned, “is the fact that these young people, in this highly excited, hypnotic state, can be told to do practically anything—and they will.” Imagine, then, if the “enemies of the Republic” used the Beatles and other to “send them forth into the streets to riot and revolt.”[^1]
 
-![Communism Hypnotism cover](assets/img/Noebel Communism Hypnotism.jpg=250x]
+![Communism Hypnotism cover](assets/img/Noebel Communism Hypnotism.jpg=250x)
 
 Rock music–loving young people ridiculed Noebel’s claims. His critics took heart from a mocking portrait of Noebel’s crusade in Newsweek magazine entitled, “Beware, the Red Beatles.” Still, Noebel did present convincing evidence that the Communist Party and fellow-travelers had consciously exerted significant influence on American folk music, extending to “mainstream” icons such as the *Fireside Book of Folk Songs*.[^2] His claims about rock ‘n’ roll were more indirect.  They focused not on Communist Party cultural workers, but rather on the alleged atheistic and communistic leanings of figures such as Beatles’ John Lennon and of crossover singers like Joan Baez and Bob Dylan.  Regardless of whether or not Noebel convinced his readers, he displayed considerable research skill, drawing upon U.S. government documents, press accounts, scientific journal articles, music history, and Communist literature to support his claims. *Rhythm, Riots and Revolution* contained dozens of footnotes and twenty-six appendices.[^3]
 
@@ -43,7 +43,7 @@ An excerpt from Howard Hanson’s article in the mis-titled, “Some Objective S
 
  So that there could no doubt what Noebel meant by “African” music, he spelled out its allegedly vile effects.  In the “heart of Africa,” wrote Noebel, “it was used to incite warriors to such a frenzy that by nightfall neighbors were cooked in carnage pots!” Such music, and its infusion into rock ‘n’ roll, Noebel charged, “is a designed reversion to savagery!” As ethnomusicologist Clara Henderson has shown, the [*Tarzan* films]( https://www.cnn.com/2016/07/01/opinions/tarzan-movies-about-africa-beale/index.html) of the 1930s had taught generations of Americans to associate not only violence with African “savagery” and jungle music, but a heightened sexuality as well.[^9] To illustrate the contemporary American counterpart to such alleged behavior, Noebel cited news reports of young people rioting and baring their skin during rock concerts. One eye-witness report of a 1964 Seattle, Washington, Beatles concert concluded simply, “It was an orgy for teenagers.” Speaking in Portland, Oregon about the Seattle concert, Noebel said, “Any girl so demoralized by music that she’ll tear off her clothes in front of 14,000 people will never be the same. The Communists are preparing our teen-agers for revolution.”[^10]
 
-![Beatles in Seattle](assets/img/Noebel Beatles fans in Seattle.jpg=250)
+![Beatles in Seattle](assets/img/Noebel Beatles fans in Seattle.jpg=250x)
 Young fans cheer on the Beatles at the Seattle Coliseum in August 1964 (Courtesy Museum of History & Industry, Seattle, WA)
 
 **Christian Recapitulationists**
@@ -56,29 +56,30 @@ In considering Noebel’s work as part of the Red Dynamite tradition, it is wort
 
 **Endnotes**
 
-[^1]David Noebel, *Rhythm, Riots and Revolution* (Tulsa, OK: Christian Crusade Publications, 1966), 90–91. For more on Noebel’s role in the conservative Christian backlash to rock music in the 1960s, see  Randall J. Stephens, *The Devil’s Music: How Christians Inspired, Condemned, and Embraced Rock ‘N’ Roll* (Cambridge, MA: Harvard University Press, 2018), 102–45 and Mark Sullivan, “'More Popular Than Jesus': The Beatles and the Religious Far Right,” *Popular Music* 6 (October 1987): 314–19.
+[^1]: David Noebel, *Rhythm, Riots and Revolution* (Tulsa, OK: Christian Crusade Publications, 1966), 90–91. For more on Noebel’s role in the conservative Christian backlash to rock music in the 1960s, see  Randall J. Stephens, *The Devil’s Music: How Christians Inspired, Condemned, and Embraced Rock ‘N’ Roll* (Cambridge, MA: Harvard University Press, 2018), 102–45 and Mark Sullivan, “'More Popular Than Jesus': The Beatles and the Religious Far Right,” *Popular Music* 6 (October 1987): 314–19.
 
-[^2]“Beware, the Red Beatles,” *Newsweek*, February 15, 1965, 89B; David Noebel, *Suffer Little Children* (Tulsa, OK: Christian Crusade Publications, 1967); Richard Reuss, “American Folksong and Left-Wing Politics: 1935–56,” *Journal of the Folklore Institute* 12 (1975): 89–111; Serge R. Denisoff, *Great Day Coming: Folks Music and the American Left* (Urbana: University of Illinois Press, 1971).
+[^2]: “Beware, the Red Beatles,” *Newsweek*, February 15, 1965, 89B; David Noebel, *Suffer Little Children* (Tulsa, OK: Christian Crusade Publications, 1967); Richard Reuss, “American Folksong and Left-Wing Politics: 1935–56,” *Journal of the Folklore Institute* 12 (1975): 89–111; Serge R. Denisoff, *Great Day Coming: Folks Music and the American Left* (Urbana: University of Illinois Press, 1971).
 
-[^3]David Noebel, *Rhythm, Riots and Revolution*, 250–329.
+[^3]: David Noebel, *Rhythm, Riots and Revolution*, 250–329.
 
-[^4]Alexander Vucinich, *Darwin in Russian Thought* (Berkeley: University of California Press, 1988), 233.
+[^4]: Alexander Vucinich, *Darwin in Russian Thought* (Berkeley: University of California Press, 1988), 233.
 
-[^5]David Noebel, *Rhythm, Riots, and Revolution*, cover; “Announcing America’s Most Needed Book of 1966,” *Christian Crusade* (1966), Billy James Hargis Papers, “Christian Crusade,” Box 4, Folder 53. 
+[^5]: David Noebel, *Rhythm, Riots, and Revolution*, cover; “Announcing America’s Most Needed Book of 1966,” *Christian Crusade* (1966), Billy James Hargis Papers, “Christian Crusade,” Box 4, Folder 53. 
 
-[^6]On this aspect of Noebel’s writing on music, see John Haines, “The Emergence of Jesus Rock: On Taming the ‘African Beat,’” *Black Music Research Journal* 31 (Fall 2011): 232–35 and Berndt Ostendorf, “Rhythm, Riots and Revolution: Political Paranoia, Cultural Fundamentalism, and African-American Music,” in Ragnhild Fiebig-von Hase and Ursula Lehmkuhl, eds., *Enemy Images in American History* (Oxford, UK: Berghahn Books, 1997), 159–79.
+[^6]: On this aspect of Noebel’s writing on music, see John Haines, “The Emergence of Jesus Rock: On Taming the ‘African Beat,’” *Black Music Research Journal* 31 (Fall 2011): 232–35 and Berndt Ostendorf, “Rhythm, Riots and Revolution: Political Paranoia, Cultural Fundamentalism, and African-American Music,” in Ragnhild Fiebig-von Hase and Ursula Lehmkuhl, eds., *Enemy Images in American History* (Oxford, UK: Berghahn Books, 1997), 159–79.
 
-[^7]For Finkelstein’s perspective on American popular music, see Sidney W. Finkelstein, *How Music Expresses Ideas* (New York: International Publishers, 1952). On Finkelstein, see Maynard Solomon, *Marxism and Art: Essays Classic and Contemporary* (New York: Alfred A. Knopf, 1973; repr. 1979), 274–76.
+[^7]: For Finkelstein’s perspective on American popular music, see Sidney W. Finkelstein, *How Music Expresses Ideas* (New York: International Publishers, 1952). On Finkelstein, see Maynard Solomon, *Marxism and Art: Essays Classic and Contemporary* (New York: Alfred A. Knopf, 1973; repr. 1979), 274–76.
 
-[^8]David Noebel, *Rhythm, Riots and Revolution* (Tulsa, OK: Christian Crusade Publications, 1966), 76, 86, 94; Howard Hanson, “Some Objective Studies of Rhythm in Music,” *American Journal of Psychiatry* 101 (November 1944): 364–69.
+[^8]: David Noebel, *Rhythm, Riots and Revolution* (Tulsa, OK: Christian Crusade Publications, 1966), 76, 86, 94; Howard Hanson, “Some Objective Studies of Rhythm in Music,” *American Journal of Psychiatry* 101 (November 1944): 364–69.
 
-[^9]Clara Henderson, "`When Hearts Beat like Native Drums:’ Music and the Sexual Dimensions of the Notions of "Savage" and "Civilized" in Tarzan and His Mate, 1934,” *Africa Today* 48 (Winter 2001): 91–124. Thanks to Professor Alisha Lola Jones for alerting me to this article.
-[^10] Ibid., 78–81, 110. “Speaker Sees Red Danger; Evangelist Cites ‘Moscow Records,” *The Oregonian*, Portland, Oregon, October 19, 1964, File 48, Box 3, Billy James Hargis Papers.
+[^9]: Clara Henderson, "`When Hearts Beat like Native Drums:’ Music and the Sexual Dimensions of the Notions of "Savage" and "Civilized" in Tarzan and His Mate, 1934,” *Africa Today* 48 (Winter 2001): 91–124. Thanks to Professor Alisha Lola Jones for alerting me to this article.
 
-[^11]See, for instance, Ken Ham, *Darwin’s Plantation: Evolution’s Racist Roots* (Green Forest, AR: Master Books, 2007).
+[^10]: Ibid., 78–81, 110. “Speaker Sees Red Danger; Evangelist Cites ‘Moscow Records,” *The Oregonian*, Portland, Oregon, October 19, 1964, File 48, Box 3, Billy James Hargis Papers.
 
-[^12]Stephen Jay Gould, *The Mismeasure of Man* (New York: W. W. Norton, 1996; revised and expanded edition), 142–75.
+[^11]: See, for instance, Ken Ham, *Darwin’s Plantation: Evolution’s Racist Roots* (Green Forest, AR: Master Books, 2007).
 
-[^13]*Jewish Inﬂuences in American Life*, vol. 3 of *The International Jew* (Dearborn, MI: Dearborn Publishing, 1921), 65.
+[^12]: Stephen Jay Gould, *The Mismeasure of Man* (New York: W. W. Norton, 1996; revised and expanded edition), 142–75.
 
-[^14]Berndt Ostendorf, “Rhythm, Riots and Revolution: Political Paranoia, Cultural Fundamentalism, and African-American Music,” 171.
+[^13]: *Jewish Inﬂuences in American Life*, vol. 3 of *The International Jew* (Dearborn, MI: Dearborn Publishing, 1921), 65.
+
+[^14]: Berndt Ostendorf, “Rhythm, Riots and Revolution: Political Paranoia, Cultural Fundamentalism, and African-American Music,” 171.
