@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Jungle Beat: Evolution, Communism, Race, and David Noebel’s Campaign against Rock ‘n’ Roll
+title: "The Jungle Beat: Evolution, Communism, Race, and David Noebel’s Campaign against Rock ‘n’ Roll"
 tags: ["Deleted Scenes"]
 excerpt: As the reference to the 1965 Watts urban rebellion suggests, Noebel’s concept of music-inspired sexual animalism had a clear racial, and racist, dimension. 
 ---
