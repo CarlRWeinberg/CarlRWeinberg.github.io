@@ -10,7 +10,7 @@ I created this website as a way to share "cutting-room floor" material that I ha
 
 **My official titles**
 
-- Senior Lecturer, IU [College of Arts and Sciences](https://college.indiana.edu/)
+- Teaching Professor, IU [College of Arts and Sciences](https://college.indiana.edu/)
 - Adjunct Associate Professor, [Dept. of History](https://history.indiana.edu/faculty_staff/adjunctfaculty/weinberg_carl.html)
 - Director, PACE Institute for Role-Immersive Teaching and Learning [(PIRTL)](https://pace.indiana.edu/academics/games/index.html)
 
