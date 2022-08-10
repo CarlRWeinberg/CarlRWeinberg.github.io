@@ -119,10 +119,12 @@ Last but not least, I will address Weikart’s claim that the Epilogue of *Red D
 Upon reviewing the text of my Epilogue, here’s what I *did* find: I discuss the 2016 election campaign and conservative evangelical support for Trump. I bring attention to the seeming oddity of anti-evolutionists supporting “’social Darwinism’ incarnate.” I document how Ken Ham of Answers in Genesis spoke favorably about Trump. Here’s a representative sample of how I write about Trump and his prominent evangelical supporters such as Rev. Robert Jeffress: “Like Ken Ham, they recognized that millions of rank-and-file evangelicals were drawn to Trump’s plainspoken calls for barring immigration from Mexico and the Middle East, his denunciation of trade deals, his ‘outsider’ status, his nostalgia for a mythical American past, and his willingness to tell the truth about the miserable economic conditions facing working people” (pp. 272–73). 
 
 ![Trump pic](/assets/img/Trump at Liberty.jpg)
+Donald Trump speaks at Liberty University during 2016 presidential campaign.
 
 As for those working-class Trump supporters, I do write about one group of them in the Epilogue—the coal miners from Harlan County, Kentucky who [blocked train tracks]( https://themilitant.com/2019/09/21/coal-miners-at-blackjewel-stand-up-for-whats-right/) and prevented their employer, [Blackjewel LLC]( https://ohiovalleyresource.org/2021/03/22/blackjewel-bankruptcy-finalized/), from shipping coal in protest of non-payment of wages. As I note, Harlan County went 85 percent for Trump, and these workers probably voted for him. In any event, they are among my heroes. In sum, I have failed to find any ranting, virulent or otherwise.
 
 ![Miners pic](/assets/img/Weikart Blackjewel miners.jpg)
+Coal miners block railroad tracks in Harlan County, Kentucky to protest non-payment of wages by their employer Blackjewel LLC, July 2019.
 
 **In conclusion**
 
