@@ -19,16 +19,17 @@ Since I wrote the book to engage in a scholarly conversation about the history o
 In the first paragraph of his first post, Weikart summarizes the book’s purpose as “exposing creationism as a tool of Christian fundamentalists to attack communism (as well as other progressive moral causes, especially sexual immorality).” More accurately, the book is about *anticommunism as a tool* that Christian conservatives used to attack evolutionary science. It documents in great detail a rhetorical strategy pioneered by George McCready Price to link evolution to the alleged dangers and immoralities of communism, a connection Price labeled “Red Dynamite” in his 1925 book, [*The Predicament of Evolution*]( https://creationism.org/books/price/PredicmtEvol/Predicmt12.htm).
 
 ![image of Price](/assets/img/Weikart Price portrait.jpg)
+Creationist geologist George McCready Price pioneered the "Red Dynamite" argument.
 
 In the heart of my book, I demonstrate how succeeding generations of Christian conservatives and self-described “scientific” creationists continued this tradition. They included William Bell Riley, J. Frank Norris, Gerald Winrod, Aimee Semple McPherson, John R. Rice, and Henry Morris, among others. (Price’s name does not appear in Weikart’s review, continuing an unfortunate tradition of marginalizing this Seventh-day Adventist creationist pioneer.)  Weikart’s first paragraph does have a plus side: he lays his own worldview on the table by describing sexual immorality as a “progressive moral cause.” In case you are wondering what kind of “immorality” progressives might consider moral, here's a short list drawn from my book’s narrative: abortion, premarital sex, premarital dancing, masturbation, and same-sex marriage. 
 
-![abortion rights protest](/assets/img/Weikart IN abortion rights protest.webp)
 
 **All about anticommunism?**
 
 The rest of Weikart’s first post is devoted to assessing what he takes to be my major causal argument. As he indicates, I pose the following question in my introduction: “Why has creationism persisted into the twenty-first century in the most scientifically advanced country in the world?” According to Weikart, my answer is that creationists embraced creationism because of its association with anticommunism.  “Balderdash,” says Weikart. Well, if that’s what I argued, he would be right. But my actual answer was different and broader: Christian conservatives “convinced their followers that evolutionary thought promotes immoral social, sexual, and political behavior, undermining existing God-given standards and hierarchies of power” (p. 13). Anticommunism was, I contend, not the whole deal, but *“a key part”* of this strategy. Socialism and communism, in this view, were *“among the evil fruits”* produced by evolutionary thinking. Evil fruits, I might add, that no historian before me has taken seriously. 
 
 ![evolutionary tree](/assets/img/Weikart Evolutionary Tree.jpg)
+Display in Institute for Creation Research museum in Santee, California, c. 2000.
 
 **The politics of religion**
 
@@ -38,7 +39,8 @@ Well, the book does show in many ways how creationism served to uphold existing 
 
 The question really is, can religion and politics be disentangled? In my book’s introduction,  I contend that “religion and politics . . . have always been inextricably intertwined.”  That is, there is no religious realm that is completely disconnected from issues of power and morality. For me, that’s what politics is: who has power over whom and on what moral basis? For me, this inseparable connection between religion and politics explains why Answers in Genesis recently opened a major new exhibit on abortion at the anti-evolutionary Creation Museum. The exhibit’s name, [Fearfully and Wonderfully Made]( https://creationmuseum.org/fearfully-wonderfully-made/), does come from scripture (Psalm 139: 14). But abortion is a deeply political matter. It is all about morality and power. 
 
-![AiG exhibit](/assets/img/Weikart AiG abortion exhibit.png)
+![abortion rights protest](/assets/img/Weikart IN abortion rights protest.webp)
+Indianpolis protesters denounce bill banning abortion in Indiana, July 2022.
 
 **No solid ground for morality?**
 
