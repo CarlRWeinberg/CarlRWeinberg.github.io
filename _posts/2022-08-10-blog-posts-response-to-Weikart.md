@@ -12,7 +12,7 @@ In early June 2022, historian Richard Weikart published a three-part review of *
 ![image of screenshot](/assets/img/Weikart review screenshot.png)
 
 
-Since I wrote the book to engage in a scholarly conversation about the history of creationism, I’m always glad to see a fellow scholar take the book seriously enough to review it, especially in three separate installments. At the same time, Weikart misrepresents my arguments in a number of ways that might mislead someone who has not read the book. Here I respond to a number of Weikart’s critiques in the interest of clarifying the issues under debate.  I encourage everyone interested in these issues to read the book, which is available both as a [free “open-access” download and a regular paperback]( https://www.cornellpress.cornell.edu/book/9781501759291/red-dynamite/) and come to their own conclusions. 
+Since I wrote the book to engage in a scholarly conversation about the history of creationism, I’m always glad to see a fellow scholar take the book seriously enough to review it, especially in three separate installments. At the same time, Weikart misrepresents my arguments in a number of ways that might mislead someone who has not read the book. Here I respond to a number of Weikart’s critiques in the interest of clarifying the issues under debate.  I encourage everyone interested in these issues to read the book, which is available both as a [free “open-access” download and a regular paperback]( https://www.cornellpress.cornell.edu/book/9781501759291/red-dynamite/), and come to their own conclusions. 
 
 **The main point**
 
