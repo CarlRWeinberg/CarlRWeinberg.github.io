@@ -40,7 +40,7 @@ Well, the book does show in many ways how creationism served to uphold existing 
 The question really is, can religion and politics be disentangled? In my book’s introduction,  I contend that “religion and politics . . . have always been inextricably intertwined.”  That is, there is no religious realm that is completely disconnected from issues of power and morality. For me, that’s what politics is: who has power over whom and on what moral basis? For me, this inseparable connection between religion and politics explains why Answers in Genesis recently opened a major new exhibit on abortion at the anti-evolutionary Creation Museum. The exhibit’s name, [Fearfully and Wonderfully Made]( https://creationmuseum.org/fearfully-wonderfully-made/), does come from scripture (Psalm 139: 14). But abortion is a deeply political matter. It is all about morality and power. 
 
 ![abortion rights protest](/assets/img/Weikart IN abortion rights protest.webp)
-Indianpolis protesters denounce bill banning abortion in Indiana, July 2022.
+Indianapolis protesters denounce bill banning abortion in Indiana, July 2022.
 
 **No solid ground for morality?**
 
