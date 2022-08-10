@@ -76,7 +76,7 @@ Weikart’s point about Stalin and Lysenko prefaces a broader critique of Red Dy
 If I had actually failed to recognize that evolutionary biologists were influenced by non-scientific factors, e.g., by their political views, that would be a serious omission. But here again, Weikart neglects to mention that in Ch. 7, I provide an extended case study of what I call  “the influence of politics on biology.” (p. 213) In the 1970s, as I describe in detail, Stephen Jay Gould and  Niles Eldredge challenged the prevalent model of evolutionary gradualism with their theory of [punctuated equilibrium]( https://www.pbs.org/wgbh/evolution/library/03/5/l_035_01.html) (PE). Led by Gould, the pair argued that ideas of the Darwinist mainstream were distorted and limited by a politically influenced commitment to imperceptibly slow change. In contrast, Gould and Eldredge argued for periods of slow change interrupted by quicker change (in an evolutionary timescale). After describing the content of PE and its ties to Gould’s own Marxist-influenced politics, I show how creationist Henry Morris correctly recognized the influence of non-scientific factors on Gould and Eldredge. (p. 216–17). (For that matter, I also review Morris’s largely accurate account of evolutionary science in the Soviet Union, including the outsize influence of Lamarckism.)
 
 ![Gould pic](/assets/img/Weikart Gould pic.jpg)
-Stephen Jay Gould's Marxist-influenced idea of puncuated equilibrium drew fire from creationist critics.
+Stephen Jay Gould's Marxist-influenced idea of puncuated equilibrium drew the attention of anticommunist creationists.
 
 **Have I slandered Henry Morris?**
 
