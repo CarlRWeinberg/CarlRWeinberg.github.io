@@ -100,7 +100,7 @@ William Bell Riley's book attributed evolution to a Jewish-Communist conspiracy.
 Though nowhere in my book do I say that Morris shared Riley’s views on Hitler and Jews, I stand by the following: “Riley was correct to see in Morris’s writings a continuation of what the older man had started. Not only did these two men share a fundamentalist Baptist faith, but they agreed that evolution posed great dangers for American society, morality, and politics.” Though Morris declined Riley’s offer—for one thing, Morris was then a graduate student at the University of Minnesota planning a secular academic career—he maintained links with Riley’s bible college for decades after the old man’s death. 
 
 ![Riley pic](/assets/img/Weikart Riley portrait.jpg)
-William Bell Riley was a leading Christian fundamentalist and opponent of evolutionary science. 
+William Bell Riley (1861-1947) was a leading Christian fundamentalist and opponent of evolutionary science. 
 
 How did Morris think about Hitler? It was 1989. The political environment had changed drastically since the 1930s, when Henry Ford, William Bell Riley, and Gerald Winrod had all publicly lauded the Nazi party. It had become rare for anyone, even on the political right, to openly express admiration for Hitler. What we do know, and what I document in the book, is how Morris compared the Nazis and the communists in *Long War Against God*. What I find is that Morris links communists, evolutionists, and Satan (but not Hitler) in a centuries-long conspiracy that has killed more people in the twentieth century (in the “class struggle”) by a factor of “ten or more” than the number of Hitler’s victims.  
 
