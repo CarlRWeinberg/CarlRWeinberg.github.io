@@ -48,9 +48,9 @@ Speaking of morality, in his second post, Weikart claims that there is a contrad
 
 But Weikart has omitted a third alternative—Marxist class-based morality. In my discussion of President Ronald Reagan’s “evil empire” speech in Chapter 7, I give Reagan credit for accurately summing up Lenin and the Bolsheviks’ approach to morality. As Reagan put it, the Soviets “repudiate all morality that proceeds from supernatural ideas—that’s their name for religion—or ideas that are outside class conceptions. Morality is entirely subordinate to the interests of class war. And everything moral that is necessary for the annihilation of the old, exploiting social order and for uniting the proletariat.” (p. 235) 
 
-![Reagan speech](/assets/img/Weikart Reagan Evil Empire Speech.jpg)
-
 From this perspective, “oppressing the poor” is immoral because it’s part of the “old, exploiting social order,” not because it’s “objectively” wrong in some timeless, abstract sense. Incidentally, Reagan and his fellow anticommunists claimed that their morality was different. Reagan rejected the idea, at least in theory, that “whatever will further their cause” is moral, that the ends justify the means. But as I note in my Epilogue, Christian conservatives who supported the highly profane Donald Trump (more on this below) were operating on precisely that basis. For that matter, so was Reagan when he [secretly and illegally funded]( https://www.pbs.org/wgbh/americanexperience/features/reagan-iran/) the murderous contras in Nicaragua in order to destroy the 1979 Sandinista revolution. 
+
+![Reagan speech](/assets/img/Weikart Reagan Evil Empire Speech.jpg)
 
 **Marxists and Lamarck**
 
