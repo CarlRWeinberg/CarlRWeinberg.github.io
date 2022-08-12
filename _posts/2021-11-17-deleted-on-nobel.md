@@ -34,7 +34,7 @@ An 1895 engraving of the 1599 execution of Beatrice Cenci.
 
 Despite a longstanding oral tradition about this sordid affair and a string of written accounts, the subject matter—incest and parricide—was considered so controversial that even Shelley’s play was not publicly performed until 1922.[^8] A delay of similar length followed the publication of Nobel’s work—it was performed for the first and only time in Stockholm in 2005 at, appropriately enough, the August Strindberg Intima Theater.[^9] Among the liberties that Nobel took with the story were his decision to allow Beatrice and her co-conspirators to live. Contrary to the final execution scene in Shelley’s version, Beatrice gets away with murder.  And in the play’s final lines, when servant and hired killer Marzio implores his accomplice Olympio to pray to God for forgiveness, Olympio replies, “Right away, as soon as I have counted up my loot.”[^10]
 
-![Beatrice Cenci film image](/assets/img/Nobel BC film poster.png)
+![Beatrice Cenci film image](/assets/img/Nobel BC film poster.png=100x20)
 Poster for the Italian film version of the Beatrice Cenci story, 1969.
 
 **Speaking through Satan**
